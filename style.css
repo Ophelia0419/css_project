@@ -1,25 +1,20 @@
 .box {
     border: 50px solid red;
     margin-bottom:20px;
-    padding-top:50px;
-    padding-left:40px;
-    text-align:center;
-    margin-right:100px;
+    padding:50px;
+    width:200px;
   }
   
   .box-green {
     border: 50px solid #27ae60;
     margin-bottom:20px;
-    padding-top:50px;
-    padding-left:40px;
-    text-align:center;
-    margin-right:100px;
+    padding:50px;
+    width:200px;
   }
   
   .box-blue {
     border: 50px solid #2980b9;
-    padding-top:50px;
-    padding-left:40px;
-    text-align:center;
-    margin-right:100px;
+    margin-bottom:20px;
+    padding:50px;
+    width:200px;
   }
